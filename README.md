@@ -5,7 +5,7 @@ A fully-featured, ready-to-play 3D Endless Runner game template built with Unity
 <p align="center">
   <a href="https://drive.google.com/file/d/1Pb9oLPRNPmF8FT7e7ztaWd0GeGvYI1Q8/view?usp=sharing" target="_blank">
     <img src="Assets/Icon.png" width="120px" alt="Game Icon" style="border-radius: 20px;" /><br/>
-    <strong>🎬 Click Here to Watch the Gameplay & Demo Video on Google Drive</strong>
+    <strong>🎬 Click Here to Watch the Gameplay & Demo Video</strong>
   </a>
 </p>
 
