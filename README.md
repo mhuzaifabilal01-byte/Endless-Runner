@@ -3,7 +3,10 @@
 A fully-featured, ready-to-play 3D Endless Runner game template built with Unity and Universal Render Pipeline (URP). This project serves as a comprehensive reference implementation for building mobile-optimized endless runner games (similar to Subway Surfers or Temple Run).
 
 <p align="center">
-  <video src="https://github.com/mhuzaifabilal01-byte/Endless-Runner/raw/main/Assets/Demo/demo.mp4" width="100%" height="auto" controls autoplay loop muted></video>
+  <a href="https://drive.google.com/file/d/1Pb9oLPRNPmF8FT7e7ztaWd0GeGvYI1Q8/view?usp=sharing" target="_blank">
+    <img src="Assets/Icon.png" width="120px" alt="Game Icon" style="border-radius: 20px;" /><br/>
+    <strong>🎬 Click Here to Watch the Gameplay & Demo Video on Google Drive</strong>
+  </a>
 </p>
 
 ---
